@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="inter">
+    <archive path="C:/Users/1513 X-MXTI/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_rsms.me_inter_inter.css" />
+  </library>
+  <library name="tailwindcss">
+    <archive path="C:/Users/1513 X-MXTI/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_unpkg.com_tailwindcss@^2_dist_tailwind.css" />
+  </library>
+  <library name="@material-tailwind/html">
+    <archive path="C:/Users/1513 X-MXTI/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_unpkg.com_@material-tailwind_html@latest_scripts_tabs.js" />
+  </library>
+  <library name="sweetalert2">
+    <archive path="C:/Users/1513 X-MXTI/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdn.jsdelivr.net_npm_sweetalert2@11.14.3_dist_sweetalert2.all.js" />
+    <archive path="C:/Users/1513 X-MXTI/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdn.jsdelivr.net_npm_sweetalert2@11.14.3_dist_sweetalert2.css" />
+    <archive path="C:/Users/1513 X-MXTI/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdn.jsdelivr.net_npm_sweetalert2@11.js" />
+  </library>
+</eclipse-userlibraries>
+
